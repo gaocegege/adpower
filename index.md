@@ -9,9 +9,20 @@
   <li><a href="cam.txt">王晟-市场信息</a></li>
 </ul>
 
-**【Update in 2015-4-12】用户调研已达成**
+**【Update in 2015-04-12】用户调研已达成**
 
 * <a href="interview.html">用户调研-2015-4-12</a>
+
+**【Update in 2015-04-21】调查文档初稿完成**
+
+* <a href="output.html">初稿</a>
+
+初稿的doc版本请查看[github-adpower](https://github.com/gaocegege/adpower/blob/gh-pages/%E6%8F%90%E4%BA%A4%E6%96%87%E6%A1%A3.docx)，并点击页面中的**view raw**下载。
+
+未完成的工作：
+
+* 把用户调研融入到文档当中
+* 细节润色
 
 ## 调查内容
 
